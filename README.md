@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **erdmannsilva/erdmannsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![](https://tenor.com/pt-BR/view/lets-play-play-lets-game-robot-in-a-gif-15618850807470391503.gif)
